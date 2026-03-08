@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @pavanmadiraju91
-- 👀 I’m interested in UX...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Pavan Madiraju
 
-<!---
-pavanmadiraju91/pavanmadiraju91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior UX Designer at SAP LeanIX, Bonn. Occasionally building things.
+
+---
+
+**[LaunchMate](https://pavanmadiraju91.github.io/my-launchmate/)** — Launch your favourite apps together, exactly how you want them, with one click.
+
+**[Claudy](https://github.com/pavanmadiraju91/claudy)** — A pixel-art RPG that visualizes Claude Code as a character navigating a virtual office. Electron + Godot + xterm.js.
+
+**[pavanmadiraju.com](https://pavanmadiraju.com)** — My portfolio, but it talks back. A RAG-powered chatbot that answers questions about my work.
+
+---
+
+[LinkedIn](https://linkedin.com/in/pavanmadiraju)
