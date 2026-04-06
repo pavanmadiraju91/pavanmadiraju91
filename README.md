@@ -5,7 +5,7 @@
 
 # Pavan Madiraju
 
-Senior UX Designer at SAP LeanIX
+Principal UX Designer at SAP LeanIX
 
 <br>
 
