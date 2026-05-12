@@ -21,7 +21,11 @@ Most times, both.
 
 [**Claudy**](https://github.com/pavanmadiraju91/claudy) — Claude Code, but it's a pixel-art RPG.
 
+[**Answering Machine**](https://github.com/pavanmadiraju91/answering-machine) — Leave messages for other Claude Code users. Encrypted. No accounts.
+
 [**shout**](https://github.com/pavanmadiraju91/shout-run) — Live terminal broadcasting for AI agents and developers.
+
+[**Letter Runner**](https://github.com/pavanmadiraju91/letter-runner) — A typing game set in space. Destroy letters before they reach your cat.
 
 [**checklocal**](https://github.com/pavanmadiraju91/checklocal) — See every server running on your machine, instantly.
 
